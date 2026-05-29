@@ -14,4 +14,4 @@ Instead of traditional nerdy perameters like "FFT size" or "db Gain", this app i
 
 All of this has been accomplished with attention to performance, this app can run continously on an iPhone Air without any detectable heat up, the phone remaigns cold and system power draw is in the range of 1w. 
 
-This app will be free on the App Store (if when when I get approved), may this help you discover your passion in music or science. 北宇治ファイル!
+This app is now available for free on the App Store, may this help you discover your passion in music or science. 北宇治ファイル!
